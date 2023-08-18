@@ -4,7 +4,8 @@ EFI for Hackintosh with a Gigabyte A320M S2H V2, Ryzen 5 Pro 4650G and a Jieshuo
 **Latest working macOS**: Ventura
 <br>
 **Current OpenCore**: 0.9.4
-**SMBIOS Used**: MacPro 7,1 (works with an iMacPro1,1 too)
+<br>
+**SMBIOS Used**: MacPro 7,1 (works with an iMacPro1,1 too, you need to generate your own SMBIOS and Serial)
 
 ## Complete hardware specs
 - AMD Ryzen 5 Pro 4650G 6-core (all of them working)
