@@ -14,7 +14,7 @@ EFI for Hackintosh with a Gigabyte A320M S2H V2, Ryzen 5 Pro 4650G and a Jieshuo
 - 2x 8Gb DDR4 3200Mhz Juhor with XMP Enabled
 - Realtek RTL8111 Gigabit Ethernet
 - Reltek ALC887 Audio
-- Wifi/BT replaced by Fenvi BCM9436 - Work OOB
+- Wifi/BT replaced by Fenvi BCM4360 - Work OOB
 
 ## What works
 - macOS Big Sur, macOS Catalina and macOS Monterey
@@ -42,3 +42,10 @@ EFI for Hackintosh with a Gigabyte A320M S2H V2, Ryzen 5 Pro 4650G and a Jieshuo
 - USBMap.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
+
+## Thanks/Credits
+- [Opencore Team](https://dortania.github.io/getting-started/)
+- [BASE-EFI-AMD-RYZEN-THREADRIPPER](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER)
+  
+## Discord - Universo Hackintosh
+- [Access Discord](https://discord.universohackintosh.com.br)
