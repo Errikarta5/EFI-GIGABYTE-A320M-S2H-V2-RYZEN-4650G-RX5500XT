@@ -1,0 +1,2 @@
+# EFI-GIGABYTE-A320M-S2H-V2-RYZEN-4650G-RX5500XT
+EFI for Hackintosh with a Gigabyte A320M S2H V2, Ryzen 5 Pro 4650G and a Jieshuo RX 5500 XT
